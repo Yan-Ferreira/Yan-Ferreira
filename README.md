@@ -1,7 +1,4 @@
 ### Olá, mundo! Podem me chamar de Yankeer 👋
-- 🧑‍🎓 Futuro Front-End
-- 🧑‍💻 Foco em Design UI/UX
-- 🧠 "Criatividade é a inteligência se divertindo"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/yanf-ferreira/)
